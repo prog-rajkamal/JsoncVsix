@@ -9,3 +9,6 @@ the Textmate grammer was copied as is from [Vs code repository](https://github.c
 
 This project was created by following instructions at [Textmate Sample Extension](https://github.com/madskristensen/TextmateSample).
 
+## Icon credits
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>

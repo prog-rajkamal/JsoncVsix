@@ -74,6 +74,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="json-file.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <Content Include="languages.pkgdef">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
